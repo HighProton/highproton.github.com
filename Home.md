@@ -1,7 +1,6 @@
 # HighProton's Documentation
 > [!NOTE]
 > MIT License
-
 > Copyright (c) 2023 HighProton
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
