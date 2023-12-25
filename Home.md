@@ -1,3 +1,3 @@
 # HighProton's Documentation
-> [!NOTE]
+> [!LICENSE]
 > Test
